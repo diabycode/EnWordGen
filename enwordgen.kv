@@ -1,0 +1,115 @@
+#:import utils kivy.utils
+
+<LeftAlignLabel@Label>:
+    text_size: self.size
+    halign: "left"
+    valign: "center"
+
+<DefinitionLabel@Label>:
+    color: utils.get_color_from_hex("#707070")
+    font_name: "./fonts/Poppins-Regular.ttf"
+
+<MainWidget>:
+    infinitif: infinitif
+    preterit_ppasse: preterit_ppasse
+    in_frensh: in_frensh
+
+    main_widget: main_widget
+    body_section: body_section
+    switch: switch
+
+    Widget:
+        id: main_widget
+        size: root.size
+
+        # background_color
+        canvas.before:
+            Color:
+                rgb: utils.get_color_from_hex(app.BACKGROUND_COLOR)
+            Rectangle:
+                pos: self.pos
+                size: self.size
+
+        # THE DARK MODE SWITCH
+        BoxLayout:
+            pos: dp(310), dp(215)
+            width: dp(220)
+            height: dp(35)
+            Label:
+                text: "Dark Mode"
+                color: utils.get_color_from_hex(app.TEXT_COLOR)
+                font_name: "./fonts/Poppins-Regular.ttf"
+                font_size: dp(16)
+            BoxLayout:
+                Switch:
+                    id: switch
+                    on_active: app.main_app.change_curent_theme(self)
+
+        # ----- BORDER RADIUS SECTION --------
+        BoxLayout:
+            pos_hint: {"center_x": .5, "center_y": .5}
+            orientation: "vertical"
+            width: dp(400)
+            height: dp(130)
+            pos: root.center_x-self.width/2, root.center_y-self.height/1.7
+
+
+
+            # --- SECTION HEADER ---
+            BoxLayout:
+                size_hint_y: .42
+
+                LeftAlignLabel:
+                    id: infinitif
+                    text: "Infinitif"
+                    padding: dp(8), dp(0)
+                    bold: True
+                    font_size: dp(20)
+                    font_name: "./fonts/Poppins-SemiBold.ttf"
+                    color: utils.get_color_from_hex(app.TEXT_COLOR)
+
+            # --- SECTION BODY ---
+            RelativeLayout:
+                id: body_section
+                canvas.before:
+                    Color:
+                        rgb: utils.get_color_from_hex(app.SECTION_BODY_BACKGROUND_COLOR)
+                    RoundedRectangle:
+                        #pos: self.pos
+                        size: self.size
+                        radius: [7, 7, 7, 7]
+
+                Button:
+                    background_normal: ""
+                    background_down: ""
+                    background_color: (0, 0, 0, 0)
+                    on_release: app.main_app.show_correction(self)
+
+                BoxLayout:
+                    orientation: "vertical"
+                    BoxLayout:
+                        size_hint_y: .65
+                        LeftAlignLabel:
+                            id: in_frensh
+                            text: "traduction en francais"
+                            hex_color: "#707070"
+                            padding: dp(8), dp(0)
+                            valign: "center"
+                            font_name: "./fonts/Poppins-Regular.ttf"
+                            font_size: dp(16)
+                            color: utils.get_color_from_hex(app.TEXT_COLOR)
+
+                    BoxLayout:
+
+                        LeftAlignLabel:
+                            id: preterit_ppasse
+                            text: "preterit\nparticipe passé"
+                            padding: dp(8), dp(0)
+                            valign: "top"
+                            font_name: "./fonts/Poppins-Regular.ttf"
+                            font_size: dp(15)
+                            color: utils.get_color_from_hex("#707070")
+
+
+
+

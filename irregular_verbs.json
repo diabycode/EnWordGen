@@ -1,0 +1,710 @@
+[
+    [
+        "to bet",
+        "bet",
+        "bet",
+        "parier"
+    ],
+    [
+        "to burst",
+        "burst",
+        "burst",
+        "\u00e9clater"
+    ],
+    [
+        "to cost",
+        "cost",
+        "cost",
+        "co\u00fbter"
+    ],
+    [
+        "to cut",
+        "cut",
+        "cut",
+        "couper"
+    ],
+    [
+        "to hit",
+        "hit",
+        "hit",
+        "frapper"
+    ],
+    [
+        "to hurt",
+        "hurt",
+        "hurt",
+        "blesser, faire mal"
+    ],
+    [
+        "to let",
+        "let",
+        "let",
+        "permettre"
+    ],
+    [
+        "to put",
+        "put",
+        "put",
+        "mettre"
+    ],
+    [
+        "to shut",
+        "shut",
+        "shut",
+        "fermer"
+    ],
+    [
+        "to spread",
+        "spread",
+        "spread",
+        "s'\u00e9tendre, se r\u00e9pandre"
+    ],
+    [
+        "to read",
+        "read",
+        "read",
+        "lire"
+    ],
+    [
+        "to become",
+        "became",
+        "become",
+        "devenir"
+    ],
+    [
+        "to come",
+        "came",
+        "come",
+        "venir"
+    ],
+    [
+        "to run",
+        "ran",
+        "run",
+        "courir"
+    ],
+    [
+        "to make",
+        "made",
+        "made",
+        "faire"
+    ],
+    [
+        "to build",
+        "built",
+        "built",
+        "construire"
+    ],
+    [
+        "to bend",
+        "bent",
+        "bent",
+        "plier, se pencher"
+    ],
+    [
+        "to dream",
+        "dreamt",
+        "dreamt",
+        "r\u00eaver"
+    ],
+    [
+        "to burn",
+        "burnt",
+        "burnt",
+        "br\u00fbler"
+    ],
+    [
+        "to feel",
+        "felt",
+        "felt",
+        "sentir"
+    ],
+    [
+        "to kneel",
+        "knelt",
+        "knelt",
+        "s'agenouiller"
+    ],
+    [
+        "to keep",
+        "kept",
+        "kept",
+        "garder"
+    ],
+    [
+        "to learn",
+        "learnt",
+        "learnt",
+        "apprendre"
+    ],
+    [
+        "to leave",
+        "left",
+        "left",
+        "partir"
+    ],
+    [
+        "to lend",
+        "lent",
+        "lent",
+        "pr\u00eater"
+    ],
+    [
+        "to light",
+        "lit",
+        "lit",
+        "allumer, \u00e9clairer"
+    ],
+    [
+        "to lose",
+        "lost",
+        "lost",
+        "perdre"
+    ],
+    [
+        "to sleep",
+        "slept",
+        "slept",
+        "dormir"
+    ],
+    [
+        "to smell",
+        "smelt",
+        "smelt",
+        "sentir"
+    ],
+    [
+        "to spell",
+        "spelt",
+        "spelt",
+        "\u00e9peler"
+    ],
+    [
+        "to spend",
+        "spent",
+        "spent",
+        "d\u00e9penser"
+    ],
+    [
+        "to spoil",
+        "spoilt",
+        "spoilt",
+        "g\u00e2ter, gacher"
+    ],
+    [
+        "to mean",
+        "meant",
+        "meant",
+        "signifier"
+    ],
+    [
+        "to send",
+        "sent",
+        "sent",
+        "envoyer"
+    ],
+    [
+        "to sweep",
+        "swept",
+        "swept",
+        "balayer"
+    ],
+    [
+        "to have",
+        "had",
+        "had",
+        "avoir, prendre"
+    ],
+    [
+        "to hear",
+        "heard",
+        "heard",
+        "entendre"
+    ],
+    [
+        "to clothe",
+        "clad",
+        "clad",
+        "v\u00eatir"
+    ],
+    [
+        "to slide",
+        "slid",
+        "slid",
+        "glisser"
+    ],
+    [
+        "to make",
+        "made",
+        "made",
+        "faire"
+    ],
+    [
+        "to buy",
+        "bought",
+        "bought",
+        "acheter"
+    ],
+    [
+        "to catch",
+        "caught",
+        "caught",
+        "attraper"
+    ],
+    [
+        "to bring",
+        "brought",
+        "brought",
+        "apporter"
+    ],
+    [
+        "to teach",
+        "taught",
+        "taught",
+        "enseigner"
+    ],
+    [
+        "to think",
+        "thought",
+        "thought",
+        "penser"
+    ],
+    [
+        "to fight",
+        "fought",
+        "fought",
+        "se battre"
+    ],
+    [
+        "to seek",
+        "sought",
+        "sought",
+        "chercher"
+    ],
+    [
+        "to lay",
+        "laid",
+        "laid",
+        "poser \u00e0 plat"
+    ],
+    [
+        "to pay",
+        "paid",
+        "paid",
+        "payer"
+    ],
+    [
+        "to say",
+        "said",
+        "said",
+        "dire"
+    ],
+    [
+        "to bleed",
+        "bled",
+        "bled",
+        "saigner"
+    ],
+    [
+        "to feed",
+        "fed",
+        "fed",
+        "se nourir"
+    ],
+    [
+        "to meet",
+        "met",
+        "met",
+        "rencontrer"
+    ],
+    [
+        "to hold",
+        "held",
+        "held",
+        "tenir"
+    ],
+    [
+        "to behold",
+        "beheld",
+        "beheld",
+        "contempler"
+    ],
+    [
+        "to lead",
+        "led",
+        "led",
+        "mener"
+    ],
+    [
+        "to dig",
+        "dug",
+        "dug",
+        "creuser"
+    ],
+    [
+        "to hang",
+        "hung",
+        "hung",
+        "suspendre"
+    ],
+    [
+        "to stick",
+        "stuck",
+        "stuck",
+        "coller"
+    ],
+    [
+        "to get",
+        "got",
+        "got",
+        "obtenir"
+    ],
+    [
+        "to sell",
+        "sold",
+        "sold",
+        "vendre"
+    ],
+    [
+        "to tell",
+        "told",
+        "told",
+        "dire"
+    ],
+    [
+        "to shine",
+        "shone",
+        "shone",
+        "briller"
+    ],
+    [
+        "to shoot",
+        "shot",
+        "shot",
+        "tirer (projectile)"
+    ],
+    [
+        "to win",
+        "won",
+        "won",
+        "gagner"
+    ],
+    [
+        "to sit",
+        "sat",
+        "sat",
+        "\u00eatre assis"
+    ],
+    [
+        "to spit",
+        "spat",
+        "spat",
+        "cracher"
+    ],
+    [
+        "to bind",
+        "bound",
+        "bound",
+        "lier, relier"
+    ],
+    [
+        "to find",
+        "found",
+        "found",
+        "trouver"
+    ],
+    [
+        "to grind",
+        "ground",
+        "ground",
+        "moudre"
+    ],
+    [
+        "to wind",
+        "wound",
+        "wound",
+        "serpenter"
+    ],
+    [
+        "to stand",
+        "stood",
+        "stood",
+        "\u00eatre debout"
+    ],
+    [
+        "to understand",
+        "understood",
+        "understood",
+        "comprendre"
+    ],
+    [
+        "to withstand",
+        "withstood",
+        "withstood",
+        "r\u00e9sister"
+    ],
+    [
+        "to misunderstand",
+        "misunderstood",
+        "misunderstood",
+        "m\u00e9comprendre"
+    ],
+    [
+        "to begin",
+        "began",
+        "begun",
+        "commencer"
+    ],
+    [
+        "to cling",
+        "clang",
+        "clung",
+        "s'accrocher"
+    ],
+    [
+        "to drink",
+        "drank",
+        "drunk",
+        "boire"
+    ],
+    [
+        "to ring",
+        "rang",
+        "rung",
+        "sonner"
+    ],
+    [
+        "to sing",
+        "sang",
+        "sung",
+        "chanter"
+    ],
+    [
+        "to sink",
+        "sank",
+        "sunk",
+        "couler, s'enfoncer"
+    ],
+    [
+        "to swim",
+        "swam",
+        "swum",
+        "nager"
+    ],
+    [
+        "to awake",
+        "awoke",
+        "awoken",
+        "s'\u00e9veiller"
+    ],
+    [
+        "to break",
+        "broke",
+        "broken",
+        "casser"
+    ],
+    [
+        "to choose",
+        "chose",
+        "chosen",
+        "choisir"
+    ],
+    [
+        "to speak",
+        "spoke",
+        "spoken",
+        "parler"
+    ],
+    [
+        "to steal",
+        "stole",
+        "stolen",
+        "voler"
+    ],
+    [
+        "to wake",
+        "woke",
+        "woken",
+        "r\u00e9veiller"
+    ],
+    [
+        "to drive",
+        "drove",
+        "driven",
+        "conduire"
+    ],
+    [
+        "to eat",
+        "ate",
+        "eaten",
+        "manger"
+    ],
+    [
+        "to fall",
+        "fell",
+        "fallen",
+        "tomber"
+    ],
+    [
+        "to forbid",
+        "forbade",
+        "forbidden",
+        "interdire"
+    ],
+    [
+        "to forget",
+        "forgot",
+        "forgotten",
+        "oublier"
+    ],
+    [
+        "to forgive",
+        "forgave",
+        "forgiven",
+        "pardonner"
+    ],
+    [
+        "to hide",
+        "hid",
+        "hidden",
+        "cacher"
+    ],
+    [
+        "to bite",
+        "bit",
+        "bitten",
+        "mordre"
+    ],
+    [
+        "to freeze",
+        "froze",
+        "frozen",
+        "geler"
+    ],
+    [
+        "to give",
+        "gave",
+        "given",
+        "donner"
+    ],
+    [
+        "to ride",
+        "rode",
+        "ridden",
+        "aller \u00e0 cheval, \u00e0 bicyclette"
+    ],
+    [
+        "to rise",
+        "rose",
+        "risen",
+        "s'\u00e9lever, se lever"
+    ],
+    [
+        "to see",
+        "saw",
+        "seen",
+        "voir"
+    ],
+    [
+        "to shake",
+        "shook",
+        "shaken",
+        "secouer"
+    ],
+    [
+        "to write",
+        "wrote",
+        "written",
+        "\u00e9crire"
+    ],
+    [
+        "to take",
+        "took",
+        "taken",
+        "prendre"
+    ],
+    [
+        "to blow",
+        "blew",
+        "blown",
+        "souffler"
+    ],
+    [
+        "to draw",
+        "drew",
+        "drawn",
+        "dessiner"
+    ],
+    [
+        "to fly",
+        "flew",
+        "flown",
+        "voler"
+    ],
+    [
+        "to grow",
+        "grew",
+        "grown",
+        "grandir"
+    ],
+    [
+        "to know",
+        "knew",
+        "known",
+        "conna\u00eetre"
+    ],
+    [
+        "to throw",
+        "threw",
+        "thrown",
+        "lancer"
+    ],
+    [
+        "to show",
+        "showed",
+        "shown",
+        "montrer"
+    ],
+    [
+        "to be",
+        "was/were",
+        "been",
+        "\u00eatre"
+    ],
+    [
+        "to bear",
+        "bore",
+        "borne",
+        "(sup)porter"
+    ],
+    [
+        "to swear",
+        "swore",
+        "sworn",
+        "jurer"
+    ],
+    [
+        "to do",
+        "did",
+        "done",
+        "faire"
+    ],
+    [
+        "to go",
+        "went",
+        "gone",
+        "aller"
+    ],
+    [
+        "to lie",
+        "lay",
+        "lain",
+        "s'\u00e9tendre"
+    ],
+    [
+        "to wear",
+        "wore",
+        "worn",
+        "porter (sur soi)"
+    ]
+]
