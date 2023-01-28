@@ -7,8 +7,8 @@ Cette application s’appuie sur une mini base de donnée au format json et vous
 **fonctionnalités** 
 
 - Interface graphique
-- Deux thème gérés (sombre/clair)
-- +110 verbe disponible
+- Deux thèmes gérés (sombre/clair)
+- +110 verbes disponibles
 
 **Installation et utilisation** 
 
