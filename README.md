@@ -7,11 +7,18 @@
 
 Cette application s’appuie sur une mini base de donnée au format json et vous génère de manière aléatoire un verbe anglais à chaque démarrage. Elle vous offre des infos comme le prétérit, le participe passé et la traduction en francais du verbe généré. Pratique pour tout amateur apprenant l’anglais.
 
+
 **fonctionnalités** 
 
 - Interface graphique
 - Deux thèmes gérés (sombre/clair)
 - +110 verbes disponibles
+
+
+**Outils utilisés** 
+
+Python & Kivy
+
 
 **Installation et utilisation** 
 
