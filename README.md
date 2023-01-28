@@ -1,5 +1,8 @@
 # EnWordGen
 
+![image](https://user-images.githubusercontent.com/97140632/215263594-6173d858-5bd2-485d-bba1-20ebfd64594a.png)
+
+
 **EnWordGen**, un generateur de verbe anglais. 
 
 Cette application s’appuie sur une mini base de donnée au format json et vous génère de manière aléatoire un verbe anglais à chaque démarrage. Elle vous offre des infos comme le prétérit, le participe passé et la traduction en francais du verbe généré. Pratique pour tout amateur apprenant l’anglais.
